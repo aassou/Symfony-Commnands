@@ -8,7 +8,7 @@ Then change the mode by typping:
 
 `sudo chmod a+x /usr/loacl/bin/symfony`
 
-Type `symfony` to see if the command is recognized by our OS or not.
+Type `symfony` to see if the command is recognized by your OS or not.
 
 ## Create a new Symfony project :
 
